@@ -19,8 +19,8 @@ GitHub Actions · Vercel
 ---
 
 ## 🧪 Upcoming Ideas
-📸 **SnapClaim** – Snap receipts → auto-extract data → monthly PDF/CSV reports  
-🏃 **GhostRunner** – Race against your past runs using GPS + audio cues  
+📸 **SnapClaim** 
+🏃 **GhostRunner**
 
 ---
 
