@@ -6,23 +6,8 @@
 ---
 
 ## 🚀 Current Project
-**SMB Swiss Knife Chatbot**  
-An all-in-one chatbot for small & medium businesses.
+**Lumaclaim**  
 
-**Stack:**  
-Next.js 15 (App Router) · TypeScript · Tailwind  
-Supabase (PostgreSQL + Storage)  
-Ollama (Local) + Hugging Face API  
-PDF.js · Mammoth.js · SheetJS  
-GitHub Actions · Vercel  
-
----
-
-## 🧪 Upcoming Ideas
-📸 **SnapClaim** 
-🏃 **GhostRunner**
-
----
 
 ## 🎯 Fun Fact
 ⚡ I’d rather automate a task for 3 hours than do it manually for 10 minutes.
